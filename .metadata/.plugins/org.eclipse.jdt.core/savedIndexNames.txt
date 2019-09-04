@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\pierce.hardy\Desktop\Java Projects 2020\.metadata\.plugins\org.eclipse.jdt.core
+1392768195.index
+485498338.index
+178394799.index
